@@ -1,0 +1,6 @@
+Ordinary Least Squares Regression
+R-values
+Design Matrix: What is it, why is first column all 1s?
+Normal-Inverse-Gamma prior
+Residual: the difference between the observed value of the dependent variable and the predicted value of the
+dependent variable. Residual = y - y^
